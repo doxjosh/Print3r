@@ -3,7 +3,7 @@ A tool is currently being worked on to make these steps easy but right now this 
 
 ## Instructions
 1. Find your extension id. To find it go to chrome://extensions then click the extension, then copy the 32 character code after "?id=" in the search bar. That is your extension ID.
-2. To begin the exploit, find your extension's largest file. Use this tool to find the largest file. Alternatively, just go to chrome-extension://[PASTEIDHERE]/main.js (it may not work though).
+2. To begin the exploit, find your extension's largest file. Use this [tool](https://robwu.nl/crxviewer) to find the largest file. Alternatively, just go to chrome-extension://[PASTEIDHERE]/main.js (it may not work though).
 3. Okay, once on the large file for your extension you want to disable, press Ctrl+P to print the page.
 4. A print window should show up, with several pages in the top right. Do everything you can to increase that number. Shrink down margins, change layout to landscape, anything you can. The higher you get that number, the longer the effect will last.
 5. Now reload the page
